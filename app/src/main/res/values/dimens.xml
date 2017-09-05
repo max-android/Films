@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="screen_padding">8dp</dimen>
+    <dimen name="titul_size">22sp</dimen>
+    <dimen name="titul_padding">24sp</dimen>
+    <dimen name="detail_text">18sp</dimen>
+    <dimen name="release_data_padding">28sp</dimen>
+    <dimen name="textSizeSnack">8sp</dimen>
+
+</resources>

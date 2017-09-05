@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#BBDEFB</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTitul">#03A9F4</color>
+    <color name="screenForegraund">#607D8B</color>
+    <color name="text_rating">#F44336</color>
+    <color name="text_detail">#000000</color>
+    <color name="screenForegraundDetail">#90A4AE</color>
+    <color name="snackbar">#64B5F6</color>
+
+</resources>
